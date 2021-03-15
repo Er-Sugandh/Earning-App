@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824743574642",
+    "project_id": "earning-app-eedfc",
+    "storage_bucket": "earning-app-eedfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824743574642:android:1a975086ea99c7735416eb",
+        "android_client_info": {
+          "package_name": "com.example.earningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824743574642-r83ehu6034shuvcag9psv30lk87iu96o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.earningapp",
+            "certificate_hash": "2f83063a54b8812a8a30e7982aab7771e151d46e"
+          }
+        },
+        {
+          "client_id": "824743574642-fsu5ln4ii2nrqjdtbcmrcnpmbur4v9mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJpyF32VahZ503WP2R4Q6ata1J9Nmm2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824743574642-fsu5ln4ii2nrqjdtbcmrcnpmbur4v9mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
