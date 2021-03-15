@@ -90,22 +90,22 @@ public class RegisterActivity extends AppCompatActivity {
                 String confirmPass = confirmPasswordEdit.getText().toString();
 
                 if (name.isEmpty()) {
-                    nameEdit.setError("Name Dal Bsdk");
+                    nameEdit.setError("Required");
                     return;
                 }
 
                 if (email.isEmpty()) {
-                    emailEdit.setError("Email Dal Laude");
+                    emailEdit.setError("Required");
                     return;
                 }
 
                 if (pass.isEmpty()) {
-                    passwordEdit.setError("Bataya na");
+                    passwordEdit.setError("Required");
                     return;
                 }
 
                 if (confirmPass.isEmpty() || !pass.equals(confirmPass)) {
-                    confirmPasswordEdit.setError("Kaise Late Fir");
+                    confirmPasswordEdit.setError("Pls check confirm password  :");
                     return;
                 }
 
